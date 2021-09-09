@@ -1,0 +1,9 @@
+{
+  "name": "@my2fc/bundler",
+  "version": "0.0.1",
+  "description": "Shareable webpack-config",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Bakshi Iskandarov",
+  "license": "ISC"
+}
